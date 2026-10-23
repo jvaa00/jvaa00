@@ -1,5 +1,6 @@
-#  About Me:
-Me chamo João Vinicius, atualmente trabalho na maida health como, assistente de dados, atuo no desenvolvimento de aplicações web, análise dedos, criação de dashboards e desenvolvimento de automações.  
+Sobre mim
+
+Me chamo João Vinicius e atualmente atuo como Assistente de Dados na Maida Health. No meu dia a dia, trabalho com desenvolvimento de aplicações web, análise de dados, criação de dashboards e desenvolvimento de automações — unindo tecnologia e dados para gerar insights e otimizar processos.
 
 
 ## 🌐 Socials:
